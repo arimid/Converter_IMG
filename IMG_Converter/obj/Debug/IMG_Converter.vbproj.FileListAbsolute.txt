@@ -1,0 +1,10 @@
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\bin\Debug\IMG_Converter.exe.config
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\bin\Debug\IMG_Converter.exe
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\bin\Debug\IMG_Converter.pdb
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\bin\Debug\IMG_Converter.xml
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\obj\Debug\IMG_Converter.Form1.resources
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\obj\Debug\IMG_Converter.Resources.resources
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\obj\Debug\IMG_Converter.vbproj.GenerateResource.Cache
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\obj\Debug\IMG_Converter.exe
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\obj\Debug\IMG_Converter.xml
+c:\users\sadik_000\documents\visual studio 2013\Projects\IMG_Converter\IMG_Converter\obj\Debug\IMG_Converter.pdb
